@@ -1,2 +1,2 @@
 # DigitalAdvertising
-Exercises from my digital advertising class using python
+Exercises from my digital advertising class using python and advanced statistics
